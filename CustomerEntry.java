@@ -1,5 +1,5 @@
 /* This program is for Customer Entry 
- *   written by John R. Syers (630) 355-9059 and completed on 10/03/2013
+ *   written by John R. Syers and completed on 10/03/2013
  * 
  *   Features of this program:
  *   	- Written in Java so it is portable!
