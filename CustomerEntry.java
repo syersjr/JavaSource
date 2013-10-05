@@ -637,7 +637,7 @@ public class CustomerEntry extends JFrame implements ActionListener {
 			} finally {
 				//System.out.println("Dtatabase updated in table");
 				Global.dbRefreshInProgress = false;
-				if (Global.selectedRow >= 0) {
+				if (Global.selectedRow != 0) {
 					table.addRowSelectionInterval(Global.selectedRow, Global.selectedRow);
 				}
 			}
